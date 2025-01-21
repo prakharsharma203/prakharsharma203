@@ -1,6 +1,6 @@
 <p align ="center"><img  width="500" alt="coding" src="https://private-user-images.githubusercontent.com/74038190/290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM5MTg2MjksIm5iZiI6MTczMzkxODMyOSwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzg3OTctYmVhNzc2OWUtY2Q4Ny00OTVmLWFkMGUtMDRkZGZiYjczMDkxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjExVDExNTg0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJlNDg1YzIyMTlkZTE4MGNiZTczZjU2NTk1ZGI0MzA5NTlmYmYwYTA4ODU3ODkyYThjNjkxZTc1OTU1YmQyOTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YywOHsQ0b_aikWmF4mwpnImlHQeUhsSC837GP0LeqSc"/></p> 
 <h1 align="center">Hi 👋, I'm Prakhar Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate Coder from India, turning ideas into reality.</h3>
 <img align ="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharsharma203&label=Profile%20views&color=0e75b6&style=flat" alt="prakharsharma203" /> </p>
